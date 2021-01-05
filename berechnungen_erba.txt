@@ -4,3 +4,15 @@ https://www.google.de/maps/place/An+der+Weberei+5,+96049+Bamberg/@49.902801,10.8
 
 Breite des Innenhofes von der Hausverwaltung bis vor den Kies rechts: 88 Meter
 Höhe von Hauswand zu Hauswand: 40 Meter
+
+
+
+Bauplan Erdgeschoss: Durchgang müsste 10 breit sein
+
+Bei 100% Zoom: 14 Zentimeter entspricht 10 Tiles
+
+1 Zentimeter entspricht 1,5 Tiles
+
+35,5 cm
+
+0,73
