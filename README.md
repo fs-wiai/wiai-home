@@ -1,55 +1,29 @@
-# WorkAdventure Map Starter Kit
+# WIAI: Where I'm at Ideally
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+This is the place we love but cannot visit during the pandemic.
+Visit us in our [online hideaway](https://play.workadventu.re/_/global/fs-wiai.github.io/wiai-home/maps/erba_inner_yard.json#entry_middle_staircases).
 
-## Tools you will need
+## Tools We Use
+* The map is available via Github Pages and playable on [WorkAdventure](https://workadventu.re).
+* It is built using the [Tiled editor](https://www.mapeditor.org/).
+* Most of our Graphics are made using [Gimp](https://gimp.org).
+* Some tiles and most of the tutorial section below came with the [starter kit](https://github.com/thecodingmachine/workadventure-map-starter-kit).
 
-In order to build your own map for WorkAdventure, you need:
-
-- the [Tiled editor](https://www.mapeditor.org/) software
-- "tiles" (i.e. images) to create your map (this starter kit provides a good default tileset for offices)
-- a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
-
-## Getting started
-
-On the [Github repository page](https://github.com/thecodingmachine/workadventure-map-starter-kit),
-click the **"Use this template"** button. You will be prompted to enter a repository name for your map.
-
-![](docs/create_repo.png)
-
-Be sure to keep the repository "Public".
-
-In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
-Then select the **gh-pages** branch. 
-
-![](docs/github_pages.png)
-
-Wait a few minutes a Github will deploy a new website with the content of the repository.
-The address of the website is visible in the "GitHub Pages" section.
-
-![](docs/website_address.png)
-
-Click on the link. You should be redirected directly to WorkAdventure, on your map!
-
-## Customizing your map
-
-Your map is now up and online. You need to customize it.
+## How to Participate
 
 ### Cloning the map
-
 Start by cloning the map. If you are used to Git and GitHub, simply clone the map
 to your computer using your preferred tool and [jump to the next chapter](#loading-the-map-in-tiled).
 
 If you are new to Git, cloning the map means downloading the map to your computer.
-To do this, you will need Git, or a Git compatible tool. Our advice is to use
+To do this, you will need Git, or a Git-compatible tool. Our advice is to use
 [GitHub Desktop](https://desktop.github.com/).
-
-TODO: test and continue
 
 ### Loading the map in Tiled
 
-The sample map is in the file `map.json`.
-You can load this file in [Tiled](https://www.mapeditor.org/).
+All maps can be found in the maps folder (ending in `.json`).
+The sample map is in the file `map_initial_example.json`.
+You can load these files into [Tiled](https://www.mapeditor.org/).
 
 Now, it's up to you to edit the map and write your own map.
 
@@ -57,6 +31,12 @@ Some resources regarding Tiled:
 
 - [Tiled documentation](https://doc.mapeditor.org/en/stable/manual/introduction/)
 - [Tiled video tutorials](https://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx)
+
+### Crafting Tiles
+
+We keep the project files for all tiles in the folder `maps/tileset_saves`.
+Be sure to work mainly in your own tile set to prohibit merge conflicts on binary files.
+If you are new, just create your own file in the aforementioned folder and export a PNG file to be used with the maps into the `maps` folder.
 
 ### About WorkAdventu.re maps
 
@@ -75,5 +55,3 @@ Please be sure to check it out.
 
 When your changes are ready, you need to "commit" and "push" the changes back to GitHub.
 Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
-
-TODO: describe how to push
