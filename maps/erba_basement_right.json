@@ -31,7 +31,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.ffmuc.net\/wiai-home"
+                 "value":"erba-lib-workroom"
                 }],
          "type":"tilelayer",
          "visible":true,
