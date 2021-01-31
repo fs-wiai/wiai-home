@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stuve-bamberg.de"
+                 "value":"https:\/\/workadventure.stuve-bamberg.de\/instructions.html"
                 }],
          "type":"tilelayer",
          "visible":true,
