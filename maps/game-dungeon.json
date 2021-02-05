@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"warp_zone.json"
+                 "value":"warp_zone.json#entry_dungeon"
                 }],
          "type":"tilelayer",
          "visible":true,
