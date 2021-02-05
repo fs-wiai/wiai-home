@@ -122,6 +122,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.studentenwerk-wuerzburg.de\/bamberg\/essen-trinken\/sonderspeiseplaene.html"
+                }, 
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"http:\/\/wiai.stuve-bamberg.de\/sounds\/ambient\/Coffee%20Shop.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
