@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/wiai.stuve-bamberg.de\/boaring-game"
+                 "value":"https:\/\/files.stuve-bamberg.de\/boaring-game\/"
                 }],
          "type":"tilelayer",
          "visible":true,
