@@ -111,6 +111,12 @@
          "id":24,
          "name":"jitsi_poker_3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"erbaPoker3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
