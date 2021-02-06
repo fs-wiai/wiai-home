@@ -31,7 +31,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"..\/audio\/background_sounds\/elevator.mp3"
+                 "value":".\/audio\/background_sounds\/elevator.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
