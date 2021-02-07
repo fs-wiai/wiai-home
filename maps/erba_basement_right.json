@@ -300,7 +300,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stream.uni-vox.de"
+                 "value":"http:\/\/stream.uni-vox.de"
                 }],
          "type":"tilelayer",
          "visible":true,
