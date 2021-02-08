@@ -121,7 +121,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"http:\/\/wiai.stuve-bamberg.de\/sounds\/ambient\/Coffee%20Shop.mp3"
+                 "value":"..\/audio\/background_sounds\/coffee-shop.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
