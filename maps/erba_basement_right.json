@@ -309,12 +309,6 @@
          "id":30,
          "name":"url_uni_vox",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"http:\/\/stream.uni-vox.de"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
