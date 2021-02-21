@@ -21,6 +21,12 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -33,6 +39,12 @@
          "id":18,
          "name":"entry_elevator",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,

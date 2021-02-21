@@ -227,6 +227,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
@@ -262,7 +267,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
