@@ -75,6 +75,12 @@
          "id":16,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
