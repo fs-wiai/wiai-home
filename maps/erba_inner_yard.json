@@ -272,6 +272,12 @@
          "id":33,
          "name":"fair_floor_mtp",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/linktr.ee\/mtpbamberg"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
