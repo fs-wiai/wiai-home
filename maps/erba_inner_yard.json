@@ -141,7 +141,7 @@
                  "value":"https:\/\/play.ua-innenstadt.adventure.uni-bamberg.de\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
