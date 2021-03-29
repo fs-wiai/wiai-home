@@ -152,6 +152,12 @@
          "id":23,
          "name":"fair_floor_wiai",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.uni-bamberg.de\/wiai\/fs\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -164,6 +170,12 @@
          "id":24,
          "name":"fair_floor_ottfried",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ottfried.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -176,6 +188,12 @@
          "id":25,
          "name":"fair_floor_usi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.usionline.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -188,6 +206,12 @@
          "id":26,
          "name":"fair_floor_aegee",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/aegeebamberg.com\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -200,6 +224,12 @@
          "id":27,
          "name":"fair_floor_fub",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/freieunibamberg.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -212,6 +242,12 @@
          "id":28,
          "name":"fair_floor_debattierclub",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.debattierclub-bamberg.com\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -224,6 +260,12 @@
          "id":29,
          "name":"fair_floor_rezensoehnchen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/rezensoehnchen.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -236,6 +278,12 @@
          "id":30,
          "name":"fair_floor_sowi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.uni-bamberg.de\/sowi\/fs"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -248,6 +296,12 @@
          "id":31,
          "name":"fair_floor_allstars",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/allstars.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -260,6 +314,12 @@
          "id":32,
          "name":"fair_floor_cogita",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/cogita-beratung.com\/studierende\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -276,7 +336,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/linktr.ee\/mtpbamberg"
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/mtp.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -290,6 +350,12 @@
          "id":34,
          "name":"fair_floor_bucks",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/bucks.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -302,6 +368,12 @@
          "id":35,
          "name":"fair_floor_soziologie",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/www.ak-soziologie.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -314,6 +386,12 @@
          "id":36,
          "name":"fair_floor_wipaed",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/wipaed.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -326,6 +404,12 @@
          "id":37,
          "name":"fair_floor_bllv",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/studierende.bllv.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -338,6 +422,12 @@
          "id":38,
          "name":"fair_floor_akpol",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/akpol.jimdofree.com"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -350,6 +440,12 @@
          "id":39,
          "name":"fair_floor_bagls",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/bagls.de\/ueber-uns\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -362,6 +458,12 @@
          "id":40,
          "name":"fair_floor_rcds",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/rcds.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -374,6 +476,12 @@
          "id":41,
          "name":"fair_floor_jusos",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/jusos.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -386,6 +494,12 @@
          "id":42,
          "name":"fair_floor_fekide",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/fekide.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -398,6 +512,12 @@
          "id":43,
          "name":"fair_floor_bambus",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/bambus.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -410,6 +530,12 @@
          "id":44,
          "name":"fair_floor_weltbewusst",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/weltbewusst.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -422,6 +548,12 @@
          "id":45,
          "name":"fair_floor_arbeiterkind",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/arbeiterkind.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -434,6 +566,12 @@
          "id":46,
          "name":"fair_floor_change",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/chancengestalten.de\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -446,6 +584,12 @@
          "id":47,
          "name":"fair_floor_amnesty",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/amnesty.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -458,6 +602,12 @@
          "id":48,
          "name":"fair_floor_attac",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/attacitos.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -470,6 +620,12 @@
          "id":49,
          "name":"fair_floor_esg",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/esg.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -482,6 +638,12 @@
          "id":50,
          "name":"fair_floor_hand_des_menschen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.handdesmenschen.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -494,6 +656,12 @@
          "id":51,
          "name":"fair_floor_greenpeace",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/greenpeace.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
