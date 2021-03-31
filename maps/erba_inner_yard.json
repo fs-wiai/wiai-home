@@ -706,7 +706,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/static.adventure.uni-bamberg.de\/ERBA\/Innenhof-von-links-1.jpg"
                 }],
@@ -724,7 +724,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/static.adventure.uni-bamberg.de\/ERBA\/Innenhof-frontal.jpg"
                 }],
@@ -742,7 +742,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/static.adventure.uni-bamberg.de\/ERBA\/Innenhof-von-rechts.jpg"
                 }],
