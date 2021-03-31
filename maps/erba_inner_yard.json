@@ -228,7 +228,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/freieunibamberg.de\/"
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/fub.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -372,7 +372,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.ak-soziologie.de\/"
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/ak-soziologie.html"
                 }],
          "type":"tilelayer",
          "visible":true,
