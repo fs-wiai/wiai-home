@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventure.stuve-bamberg.de\/instructions.html"
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/instructions.html"
                 }, 
                 {
                  "name":"silent",
