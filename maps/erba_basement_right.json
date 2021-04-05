@@ -382,7 +382,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventure.stuve-bamberg.de\/printing.html"
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/printing.html"
                 }, 
                 {
                  "name":"silent",
