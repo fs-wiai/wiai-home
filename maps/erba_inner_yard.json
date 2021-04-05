@@ -841,6 +841,12 @@
          "id":60,
          "name":"exitZob",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"switchInstance",
+                 "type":"string",
+                 "value":"https:\/\/play.ua-feki.adventure.uni-bamberg.de\/_\/global\/maps.ua-feki.adventure.uni-bamberg.de\/maps\/marktplatz\/map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
