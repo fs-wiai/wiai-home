@@ -8798,12 +8798,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":1013,
-         "source":"franz.tsx"
+         "image":"franz.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"franz",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":1077,
-         "source":"signs_Lernzentrum.tsx"
+         "image":"signs_Lernzentrum.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"signs_Lernzentrum",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
