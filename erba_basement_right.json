@@ -299,7 +299,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"erba_inner_yard.json#entry_basement_right#entry_passage_right"
+                 "value":"erba_inner_yard.json#entry_passage_right"
                 }],
          "type":"tilelayer",
          "visible":true,
