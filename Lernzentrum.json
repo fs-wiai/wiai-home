@@ -246,7 +246,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vc.uni-bamberg.de\/course\/view.php?id=39437"
+                 "value":"https:\/\/www.uni-bamberg.de\/wiai\/fs\/services\/lernzentrum\/"
                 }],
          "type":"tilelayer",
          "visible":true,
