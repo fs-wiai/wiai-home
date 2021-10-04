@@ -588,7 +588,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/nachhaltigkeitsb\u00fcro.html"
+                 "value":"https:\/\/www.uni-bamberg.de\/nachhaltigkeit\/organisation\/nachhaltigkeit-organisation-nachhaltigkeitsbuero\/"
                 }],
          "type":"tilelayer",
          "visible":true,
