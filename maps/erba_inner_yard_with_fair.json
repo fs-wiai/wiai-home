@@ -390,7 +390,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/fekide.html"
+                 "value":"https:\/\/feki.de\/eets\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -498,7 +498,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/\u00f6koref.html"
+                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/oekoref.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -534,7 +534,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/smd.html"
+                 "value":"https:\/\/hochschul-smd.org\/bamberg\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -570,7 +570,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/static.adventure.uni-bamberg.de\/hsngs\/rotaract.html"
+                 "value":"https:\/\/bamberg.rotaract.de"
                 }],
          "type":"tilelayer",
          "visible":true,
