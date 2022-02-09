@@ -346,7 +346,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"maps\/marktplatz\/map.json"
+                 "value":"..\/maps\/marktplatz\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
