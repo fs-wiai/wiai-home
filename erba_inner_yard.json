@@ -344,7 +344,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"switchInstance",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"maps\/marktplatz\/map.json"
                 }],
